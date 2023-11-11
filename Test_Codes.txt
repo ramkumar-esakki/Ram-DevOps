@@ -16,3 +16,5 @@ spec:
   nfs:
     path: /
     server: fs-0483c1d4f0514a449.efs.ap-southeast-1.amazonaws.com
+
+Hello...!!
